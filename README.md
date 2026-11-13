@@ -40,3 +40,8 @@ is done.
 ## License
 
 MIT. See `LICENSE`.
+
+## Submission notes
+
+Built for the make.fun tiny-chess-01 bounty; entrypoint is the 4,069-byte packed `main.py`.
+Trial-0: 3.5/8 vs the house ladder (Elo ~1,326), node budget 25,000 per move.
